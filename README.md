@@ -1,1 +1,9 @@
-"# compasso_estagio" 
+Oi, eu sou o Theodoro->
+![WhatsApp Image 2024-01-31 at 14 56 24 (1)](https://github.com/Theodoro9278/Compass_estagio/assets/80604867/bb4516a9-65c5-4361-88cb-ed07b6166990)
+esse da foto sou eu, tenho 24 anos e estudo Ciência da Computação na UFF, eu nunca tinha trabalhado na área, mas desde os 12 anos eu trabalhei na micro empresa que meus pais tem, eu basicamente fazia a formalização de contratos no back-office e cuidava dos 10(+ou-) computadores que nós temos. Quando me formei do ensino médio ingressei na faculdade, mas na época fiz uma coisa que hoje vejo como loucura, comecei 2 faculdades ao mesmo tempo, fazia Direito durante a tarde numa particular, e a noite fazia Letras-português/inglês na UFF. Após o primeiro semestre vi que não era isso que eu queria e larguei tudo para ingressar na computação e tocar o trabalho de forma integral, me apaixonei pelo que aprendia na faculdade e de lá pra cá, com algumas complicações de saúde, venho cursando a faculdade que mais me identifico. Fora da faculdade eu acho que sou um cara bem típico, gosto de sair com os meus amigos ou ficar em casa para jogar um jogo de tabuleiro com a família ou algum videogame. 
+
+
+No desafio final, vou estudar a filmografia de Nicolas Cage e tentar buscar uma correlação entre sua dívida, causada pela crise imobiliária, e a qualidade de seu trabalho. As fontes para essa busca por correlação podem ser encontradas em: [Nicolas Cage admite ter aceitado papéis medíocres para pagar dívidas](https://oglobo.globo.com/cultura/filmes/noticia/2023/04/nicolas-cage-admite-ter-aceitado-papeis-mediocres-para-pagar-dividas.ghtml).
+As perguntas são, portanto, as notas médias de seus filmes caíram? O custo de produção dos filmes caiu? 
+Essas perguntas serão avaliadas ao longo do tempo, em especial, antes e depois da dívida.
+
